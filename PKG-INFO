@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: pyespeak
+Version: 0.2
+Summary: ctypes module for eSpeak
+Home-page: http://pyespeak.sf.net
+Author: Maxim Kolosov
+Author-email: pyirrlicht@gmail.com
+License: BSD
+Download-URL: http://pyespeak.sf.net
+Description: eSpeak is a compact, multi-language, open source text-to-speech synthesizer.
+Keywords: tts,text,speech,sapi,speak,sound,samples,audio,streams,wav
+Platform: ALL
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
+Requires: Python
+Requires: ctypes

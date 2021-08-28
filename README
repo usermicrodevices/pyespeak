@@ -1,0 +1,7 @@
+pyespeak.py - Python ctypes module for eSpeak.
+eSpeak is a compact, multi-language, open source
+text-to-speech synthesizer (http://espeak.sourceforge.net).
+
+for correct work download "espeak-data" from eSpeak site.
+
+pyespeak home page http://pyespeak.sf.net
